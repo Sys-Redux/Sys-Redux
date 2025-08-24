@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Bettermint
-- 👀 I’m interested in starting my own project.
-- 🌱 I’m currently learning coding in order to develop Dapps for Web3.
-- 💞️ I’m looking to collaborate on everything.
-- 📫 How to reach me ontheedge26@icloud.com
-- https://www.youtube.com/channel/UC5ySaIfzgvWy21cXhSXWLSQ
-- @4Bettermint
+# 💻 Trevor Edge
+## Exploring the Art of Computer Programming
+
 
 <!---
 Bettermint/Bettermint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
