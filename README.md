@@ -52,7 +52,6 @@
 
 <picture>
   <source srcset="https://github.com/Sys-Redux/Sys-Redux/blob/output/github-contribution-grid-snake.svg" />
-  <source srcset="https://github.com/Sys-Redux/Sys-Redux/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/Sys-Redux/Sys-Redux/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
