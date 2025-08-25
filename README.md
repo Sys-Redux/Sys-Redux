@@ -51,7 +51,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sys-Redux&layout=compact&theme=great-gatsby" alt="Top Languages" /></a>
 
 <picture>
-  <source srcset="https://github.com/Sys-Redux/Sys-Redux/blob/output/github-contribution-grid-snake.svg" />
+  <source srcset="https://github.com/Sys-Redux/Sys-Redux/blob/output/github-contribution-grid-snake-dark.svg" />
   <img alt="github-snake" src="https://github.com/Sys-Redux/Sys-Redux/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
