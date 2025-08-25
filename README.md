@@ -17,9 +17,10 @@
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
-<h2 align="center">Exploring the Art of the Digital Age</h2>
+<h2 align="center">🧭Exploring the Art of the Digital Age🧭</h2>
 <p align="center">I'm an idea-to-code engineer. I build software & hardware projects from scratch, starting with an idea, envisioning what that idea would look like IRL, and finding a way to make that idea into a product. We live in an exciting age, with AI emerging fast, I strive to keep an always-learning approach to everything I do. I have a background in communication and working as part of a time in high-pressure environments. Now I am looking to build the world around me!</p>
 </br>
+
 <h3>🛠️🛠️Tools of the Trade</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -44,6 +45,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fusion/fusion-original.svg" title="Fusion360" alt="Fusion360" width="40" height="40"/>
 </div>
+
+### 🔥My Stats:
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sys-Redux&theme=rust-ferris-dark" alt="GitHub Streak" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sys-Redux&layout=compact&theme=great-gatsby" alt="Top Languages" /></a>
 
 <!---
 Sys-Redux/Sys-Redux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
