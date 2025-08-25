@@ -50,6 +50,9 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sys-Redux&theme=rust-ferris-dark" alt="GitHub Streak" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sys-Redux&layout=compact&theme=great-gatsby" alt="Top Languages" /></a>
 
+![Snake Animation](https://github.com/Sys-Redux/Sys-Redux/blob/output/github-snake.svg)
+
+
 <!---
 Sys-Redux/Sys-Redux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
