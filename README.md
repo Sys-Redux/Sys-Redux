@@ -50,7 +50,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sys-Redux&theme=rust-ferris-dark" alt="GitHub Streak" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sys-Redux&layout=compact&theme=great-gatsby" alt="Top Languages" /></a>
 
-![Snake Animation](https://github.com/Sys-Redux/Sys-Redux/blob/output/github-contribution-grid-snake2.svg)
+![Snake Animation](https://github.com/Sys-Redux/Sys-Redux/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
