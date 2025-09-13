@@ -18,7 +18,7 @@
 </p>
 
 <h2 align="center">🧭Exploring the Art of the Digital Age🧭</h2>
-<p align="center">I'm an idea-to-code engineer. I build software & hardware projects from scratch, starting with an idea, envisioning what that idea would look like IRL, and finding a way to make that idea into a product. We live in an exciting age, with AI emerging fast, I strive to keep an always-learning approach to everything I do. I have a background in communication and working as part of a time in high-pressure environments. Now I am looking to build the world around me!</p>
+<p align="center">I'm an idea-to-code engineer. I build software & hardware projects from scratch, starting with an idea, envisioning what that idea would look like IRL, and finding a way to make that idea into a product. We live in an exciting age, with AI emerging fast, I strive to keep an always-learning approach to everything I do. I have a background in communication and working as part of a team in high-pressure environments. Now I am looking to build the world around me!</p>
 </br>
 
 <h3>🛠️🛠️Tools of the Trade</h3>
