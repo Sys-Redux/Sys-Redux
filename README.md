@@ -18,7 +18,7 @@
 </p>
 
 <h2 align="center">🧭Exploring the Art of the Digital Age🧭</h2>
-<p align="center">I'm an idea-to-code engineer. I build software & hardware projects from scratch, starting with an idea, envisioning what that idea would look like IRL, and finding a way to make that idea into a product. We live in an exciting age, with AI emerging fast, I strive to keep an always-learning approach to everything I do. I have a background in communication and working as part of a team in high-pressure environments. Now I am looking to build the world around me!</p>
+<p align="center">I’m an idea-to-code engineer who turns concepts into functional software and hardware. I design, prototype, and build projects end-to-end — from the initial idea to a working product. My work combines programming, electronics, and creative problem-solving to bring ideas to life. I’m always exploring new technologies, especially in AI and automation, to push what’s possible. Every project here represents part of that journey: learning, building, and improving through code.</p>
 </br>
 
 <h3>🛠️🛠️Tools of the Trade</h3>
@@ -48,8 +48,8 @@
 </div>
 
 ### 🔥My Stats:
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sys-Redux&theme=rust-ferris-dark" alt="GitHub Streak" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sys-Redux&layout=compact&theme=great-gatsby" alt="Top Languages" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sys-Redux&theme=rust-ferris-dark" alt="GitHub Streak" /></a>
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Sys-Redux/Sys-Redux/output/snake.svg#gh-light-mode-only)
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Sys-Redux/Sys-Redux/output/snake.svg#gh-dark-mode-only)
