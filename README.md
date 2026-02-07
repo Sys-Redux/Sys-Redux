@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
-<h2 align="center">🧭Exploring the Art of the Digital Age🧭</h2>
-<p align="center">I’m an idea-to-code engineer who turns concepts into functional software and hardware. I design, prototype, and build projects end-to-end — from the initial idea to a working product. My work combines programming, electronics, and creative problem-solving to bring ideas to life. I’m always exploring new technologies, especially in AI and automation, to push what’s possible. Every project here represents part of that journey: learning, building, and improving through code.</p>
+<h2 align="center">System Architect</h2>
+<p align="center">I’m an idea-to-solution engineer who turns concepts into functional software and hardware. I design, prototype, and build projects end-to-end — from the initial idea to a working product. My work combines programming, electronics,design and creative problem-solving to bring ideas to life. I’m always exploring new technologies, especially in the realm of AI and automation, to push what’s possible. Every project here represents part of that journey: learning, building, and improving through the daily grond.</p>
 </br>
 
 <h3>🛠️🛠️Tools of the Trade</h3>
